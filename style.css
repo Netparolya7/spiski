@@ -1,0 +1,15 @@
+ol{
+    list-style-type:lower-alpha;
+}
+li{
+    color: blueviolet;
+    text-decoration: line-through;
+}
+li:hover{
+    color: cornsilk;
+}
+.ll{
+    color: black;
+    text-decoration: none;
+}
+
